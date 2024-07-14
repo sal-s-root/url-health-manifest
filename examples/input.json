@@ -1,0 +1,6 @@
+{
+  "urls": [
+    "https://api.example.test/healthz",
+    "https://api.example.test/healthz"
+  ]
+}
